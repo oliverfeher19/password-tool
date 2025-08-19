@@ -1,14 +1,12 @@
 # password-tool
-A personal project to practice OOP and Java development: generates strong passwords, checks strength with detailed metrics, and will include AES encryption, JavaFX GUI, and units tests. 
+A personal project to practice OOP and Java development: generates strong passwords, checks strength with detailed metrics, includes AES encryption, and Junit testing. 
 #Features
 -Generate strong password with configurable length
 -Analyze password strenght
   -Number of digits, lowercase, uppercase, and special charactrers
   -Suggestions to improve weak passwords
--Planned Features:
   -Save password securely to local file
   -AES encryption for secure password storage
-  -JavaFX GUI interface (maybe)
 
 #Technologies Used
 -Java 
